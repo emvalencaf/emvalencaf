@@ -1,8 +1,8 @@
 # 🧙🏻 Edson Mota Valença Filho
 **`Full-Stack Developer`**
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/emvalencaf/emvalencaf/blob/master/README.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/emvalencaf/blob/master/README.pt-br.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/emvalencaf/emvalencaf/blob/main/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/emvalencaf/blob/main/README.pt-br.md)
 
 Sou um desenvolvedor full-stack com quase 2 anos de experiência:
 - 🧑🏻‍💻 Atualmente trabalho como Desenvolvedor Full-Stack Free-lancer.
