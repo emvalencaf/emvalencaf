@@ -1,5 +1,24 @@
-### Hi there 👋
+# 🧙🏻 Edson Mota Valença Filho
+**`Desenvolvedor Full-Stack`**
 
+Sou um desenvolvedor full-stack com quase 2 anos de experiência:
+- 🧑🏻‍💻 Atualmente trabalho como Desenvolvedor Full-Stack Free-lancer.
+- 🎓 Sou estudante do 2º período do curso Análise e Desenvolvimento de Sistemas.
+- 🌱 Atualmente estudo `typescript`, `nest.js`, `next.js` e aplicações envolvendo inteligência artificial.
+- 🎵 Tenho um [canal de YouTube](https://www.youtube.com/channel/UCcF9upGWU7ZSF1FvrRs6oMA) em disponibilizo `ai cover` de músicas internacionais e nacionais de cantores famosos (modelos AI de voz).
+- 🚀 Atualmente procuro oportunidades como Estagiário ou Desenvolvedor Júnior.
+
+<p align="left">
+  <a href="#meus-repositórios">
+    <img alt="my repos" title="my repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/>
+    <a href="#">
+    <img alt="my repos" title="my repos" src="https://custom-icon-badges.demolab.com/badge/-Resume/Currículo-F25278?style=for-the-badge&logo=download&logoColor=white)"/>
+  </a>
+    
+</p>
+
+---
+### Meus repositórios
 <!--
 **emvalencaf/emvalencaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
