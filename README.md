@@ -1,11 +1,11 @@
 # 🧙🏻 Edson Mota Valença Filho
-**`Desenvolvedor Full-Stack`**
+**`Full-Stack Developer`**
 
 Sou um desenvolvedor full-stack com quase 2 anos de experiência:
 - 🧑🏻‍💻 Atualmente trabalho como Desenvolvedor Full-Stack Free-lancer.
 - 🎓 Sou estudante do 2º período do curso Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente estudo `typescript`, `nest.js`, `next.js` e aplicações envolvendo inteligência artificial.
-- 🎵 Tenho um [canal de YouTube](https://www.youtube.com/channel/UCcF9upGWU7ZSF1FvrRs6oMA) em disponibilizo `ai cover` de músicas internacionais e nacionais de cantores famosos (modelos AI de voz).
+- 🎵 Tenho um [canal no YouTube](https://www.youtube.com/channel/UCcF9upGWU7ZSF1FvrRs6oMA) de `ai cover` de músicas internacionais e nacionais de cantores famosos.
 - 🚀 Atualmente procuro oportunidades como Estagiário ou Desenvolvedor Júnior.
 
 <p align="left">
