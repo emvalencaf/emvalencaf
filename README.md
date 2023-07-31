@@ -1,5 +1,5 @@
 # 🧙🏻 Edson Mota Valença Filho
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0F766E&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Edson+Valença;I'm+a+Full-Stack+Developer;I'm+graduating+in+Systems+Analysis+and+Development;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0F766E&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Edson+Valença;I'm+a+Full-Stack+Developer;I'm+studing+in+Systems+Analysis+and+Development;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
   
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/emvalencaf/emvalencaf/blob/main/README.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/emvalencaf/emvalencaf/blob/main/README.pt-br.md)
