@@ -6,7 +6,7 @@
 
 I am a full-stack developer with almost 2 years of experience:
 - 🧑🏻‍💻 Currently, I work as a Freelance Full-Stack Developer.
-- 🎓 I am a 2nd-semester student of the course "Systems Analysis and Development."
+- 🎓 I am a 2nd-semester student of the course Systems Analysis and Development.
 - 🌱 Currently, I am studying `typescript`, `nest.js`, `next.js`, and applications involving artificial intelligence.
 - 🎵 I have a [YouTube channel](https://www.youtube.com/channel/UCcF9upGWU7ZSF1FvrRs6oMA) of `AI covers` of international and national songs by famous singers.
 - 🚀 I am currently seeking opportunities as an Intern or Junior Developer.
