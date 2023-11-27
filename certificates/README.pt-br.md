@@ -31,7 +31,7 @@
 ### Vanilla
 ![Certificado JavaScript Vanilla](/certificates/imgs/certificado-javascript.jpg)
 ![Certificado JavaScript Vanilla 2](/certificates/imgs/certificado-javascript-2.jpg)
-![Certificado JavaScript Vanilla 3](/certificates/imgs/certificado-javascript-3.svg)
+![Certificado JavaScript Vanilla 3](/certificates/imgs/certificado-javascript-3.png)
 
 ### Frameworks e bibliotecas front-end
 ![Certificado React.js](/certificates/imgs/certificado-reactjs.jpg)
@@ -46,7 +46,7 @@
 ![Certificado de Proficiência Básica em Node.JS](/certificates/imgs/nodejs_basic%20certificate.png)
 
 ## HTML & CSS
-![Certificado em Web Design](/certificates/imgs/certificado-web-design.svg)
+![Certificado em Web Design](/certificates/imgs/certificado-web-design.png)
 
 ## Métodos Ágeis
 ![Certificado de Métodos Ágeis](/certificates/imgs/certificado-metodos-ageis.jpg)
