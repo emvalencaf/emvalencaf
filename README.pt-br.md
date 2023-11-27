@@ -14,7 +14,7 @@ Sou desenvolvedor full-stack com quase 2 anos de experiência e trabalho na áre
 - 🚀 Atualmente procuro oportunidades para Desenvolvedor e Estágio na área WEB ou D&A.
 
 <p align="left">
-  <a href="https://github.com/emvalencaf/emvalencaf/blob/main/curriculo-emvalencaf-pt.pdf" download>
+  <a href="https://github.com/emvalencaf/emvalencaf/blob/main/emvalencaf-resume-pt.pdf" download>
     <img alt="resume" title="meu currículo" src="https://custom-icon-badges.demolab.com/badge/-Resume-F25278?style=for-the-badge&logo=download&logoColor=white)"/>
   </a>
   <a href="https://www.linkedin.com/in/emvalencaf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
