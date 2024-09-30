@@ -1,53 +1,92 @@
-# 🧙🏻 Edson Mota Valença Filho
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0F766E&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Edson+Valença;Faço+estágio+em+engenharia+de+Dados+na+Compass.uol;Eu+sou+um+Desenvolvedor+Full-Stack;Sou+Graduando+em+Análise+e+Desenvolvimento+de+Sistema;Tenho+interesse+em+Data+Science;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
-  
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/emvalencaf/emvalencaf/blob/main/README.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/emvalencaf/emvalencaf/blob/main/README.pt-br.md)
+<h2 align="center">
+    <p align="center">
+        Edson Mota Valença Filho
+    </p>
+    <p align="center">
+         AI & ML Developer, AWS Certified Data Engineer e AI e Cloud Practitioner
+    </p>
+</h2>
 
-Sou desenvolvedor full-stack com quase 2 anos de experiência e trabalho na área de Data & Analytics :
-- 💼 Atualmente trabalho faço estágio em Engenharia de Dados na Compass.uol.
-- 🧑🏻‍💻 Também trabalho como Desenvolvedor Full-Stack Free-lancer.
-- 🎓 Sou estudante do 2º período do curso Análise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente estudo `Python`, `manipulação e modelagem de dados `, `engenharia de nuvem` e aplicações de inteligência artificial.
-- 🎵 Tenho um [canal no YouTube](https://www.youtube.com/channel/UCcF9upGWU7ZSF1FvrRs6oMA) de `ai cover` de músicas internacionais e nacionais de cantores famosos.
-- 🔎 Tenho interesse em aprender, em um futuro próximo, sobre engenharia de ``machine learning`` e de ``inteligência artifical``.  
-- 🚀 Atualmente procuro oportunidades para Desenvolvedor e Estágio na área WEB ou D&A.
+[![English version of my profile](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/emvalencaf/emvalencaf/blob/main/README.md)
+&nbsp;&nbsp;
+[![Portuguese version of my profile](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/emvalencaf/emvalencaf/blob/main/README.pt-br.md)
 
-<p align="left">
-  <a href="https://github.com/emvalencaf/emvalencaf/blob/main/resumes/emvalenca-resume-pt-br.pdf" download>
-    <img alt="resume" title="meu currículo" src="https://custom-icon-badges.demolab.com/badge/-Resume-F25278?style=for-the-badge&logo=download&logoColor=white)"/>
-  </a>
-  <a href="https://www.linkedin.com/in/emvalencaf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-      <a href="https://emvalenca.vercel.app/pt" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%042F2E?style=for-the-badge&logo=homeassistant&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-<a href = "mailto:edsonmvf@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</p>
+```
+# !/usr/bin/python
+# -*- coding: utf-8 -*-
 
----
-### Linguagens e Ferramentas
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="ReactJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="NestJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Tailwindcss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br />
+class AIMLDeveloper:
+    def __init__(self):
+        self.name = "Edson Mota Valença Filho"
 
----
-### [🎓 Veja meus certificados](/certificates/README.pt-br.md)
+        self.role = "AI & ML Developer"
 
-### Atividade
+        self.code = ["python",
+                     "javascript",
+                     "typescript",
+                     "sql"]
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=emvalencaf&bg_color=ffffff&color=042F2E&line=0F766E&point=5EEAD4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+        self.aws_certifications = ["AI Practitioner",
+                                   "Data Engineer",
+                                   "Cloud Practitioner"]
+
+        self.soft_skills = ["comunicativo 🗣️",
+                            "sociável 🤝",
+                            "trabalhador em equipe 👥",
+                            "adaptativo 🧩"]
+
+        self.language_spoken = ["pt-BR","en-US"]
+
+    def shout_out(self):
+         print("Olá!!👋🏻 Obrigado por visitar, espero que ache alguns dos meus trabalhos interessantes! 🤙🏻")
+
+if ( __name__ == "main"):
+    me = AIMLDeveloper()
+    me.shout_out()
+```
+
+# Um Pouco Mais Sobre Mim
+
+Sou um engenheiro de software interessado em **desenvolver soluções baseadas em IA** para **investimentos** e **direito**. Sou profundamente apaixonado por **ensinar máquinas** a ajudar os humanos a alcançar melhores **resultados** e fazer contribuições **impactantes**. Atualmente, trabalho como **IA Developer trainee** na **Compass.UOL**, e tenho experiência prática tanto como **engenheiro de dados** quanto como **engenheiro de software**.
+
+No meu papel como **IA Developer**, meus principais projetos giram em torno de **aplicações baseadas em LLM**, utilizando práticas de **LLMOps** para gerenciar, implantar e monitorar eficazmente grandes modelos de linguagem. Emprego técnicas para **construir knowledge base** para sistemas de **Retrieval-Augmented Generation (RAG)**, **fine-tuning foundation models** e otimizando **engenharia de prompt** para melhores resultados. Frequentemente aproveito minhas **habilidades em engenharia de dados** para projetar e implementar **pipelines de dados** robustos que suportam essas aplicações.
+
+Sou um **estudante em graduação** do curso **Análise e Desenvolvimento de Sistemas** no **SENAC-PE**. Além disso, tenho um **diploma em Direito** e alguma experiência como advogado, o que **impulsiona** meu interesse em **criar soluções baseadas em IA** para questões legais.
+
+### Contato
+
+<a href="https://www.linkedin.com/in/emvalencaf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<a href = "mailto:emvalenca.dev@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 30px" target="_blank"/> </a>
+
+### Principais Certificações
+
+<a href="https://www.credly.com/badges/d0f54d36-4129-4b51-b78f-9812d1921671/public_url" target="_blank">
+<img src="https://images.credly.com/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" style="height:150px;width:150px;" alt="AWS Certified Data Engineer Badge">
+</a>
+<a href="https://www.credly.com/badges/2baa6054-2557-4b97-98d1-d168069b2669/public_url" target="_blank">
+<img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" style="height:150px; width: 150px;" alt="AWS Certified AI Practitioner Badge">
+</a>
+<a href="https://www.credly.com/badges/0ddd789d-e6d2-4209-87b6-6e0e536e693f/public_url" target="_blank">
+<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" style="height:150px; width: 150px;" alt="AWS Certified Cloud Practitioner Badge">
+</a>
+<a href="https://www.credly.com/badges/2693ebe0-3a65-4ddf-9232-f17da6c71ad1/public_url" target="_blank">
+<img src="https://images.credly.com/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png" style="height:150px; width: 150px;" alt="AWS Certified AI Practitioner Early Adopter Badge">
+</a>
+
+### Linguagens de Programação
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+### Principais Tecnologias
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
+![Nest.js](https://img.shields.io/badge/-Nest.js-000?&logo=nest.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
