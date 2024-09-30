@@ -47,7 +47,7 @@ if ( __name__ == "main"):
     me.shout_out()
 ```
 
-# A bit more about me
+# A Bit More About Me
 
 I'm a software engineer interested in **developing AI-based solutions** for **investments** and **law**. I'm deeply passionate about **teaching machines** to assist humans in achieving greater **results** and making **impactful** contributions. Currently, I'm working as a **trainee AI Developer** at **Compass.UOL**, and I have hands-on experience both as a **Data Engineer** and **Software Engineer**.
 
@@ -55,12 +55,12 @@ In my role as an **AI Developer**, my key projects revolve around **LLM-based ap
 
 I'm an **undergraduate student** in **Systems Analysis and Development** at **SENAC-PE**. Additionally, I hold a **law degree** and have some experience as a lawyer, which **fuels** my interest in **creating AI-based solutions** for legal issues.
 
-### Reach me out at
+### Reach Me Out At
 
   <a href="https://www.linkedin.com/in/emvalencaf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 <a href = "mailto:emvalenca.dev@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 30px" target="_blank"/> </a>
 
-### Main certifications
+### Main Certifications
 
 <a href="https://www.credly.com/badges/d0f54d36-4129-4b51-b78f-9812d1921671/public_url" target="_blank">
 <img src="https://images.credly.com/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" style="height:150px;width:150px;" alt="AWS Certified Data Engineer Badge">
