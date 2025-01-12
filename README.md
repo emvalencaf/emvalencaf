@@ -30,7 +30,8 @@ class AIMLDeveloper:
 
         self.aws_certifications = ['AI Practitioner',
                                    'Data Engineer',
-                                   'Cloud Practitioner']
+                                   'Cloud Practitioner',
+                                   'Solution Architect (Associate)']
 
         self.soft_skills = ["communicative 🗣️",
                             "sociable 🤝",
@@ -64,6 +65,9 @@ I'm an **undergraduate student** in **Systems Analysis and Development** at **SE
 
 <a href="https://www.credly.com/badges/d0f54d36-4129-4b51-b78f-9812d1921671/public_url" target="_blank">
 <img src="https://images.credly.com/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" style="height:150px;width:150px;" alt="AWS Certified Data Engineer Badge">
+</a>
+<a href="https://www.credly.com/badges/9ee683dc-e934-4ba4-909c-9e808a0daf83/public_url" target="_blank">
+<img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" style="height:150px; width: 150px;" alt="AWS Certified Solution Architect Associate Badge">
 </a>
 <a href="https://www.credly.com/badges/2baa6054-2557-4b97-98d1-d168069b2669/public_url" target="_blank">
 <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" style="height:150px; width: 150px;" alt="AWS Certified AI Practitioner Badge">
