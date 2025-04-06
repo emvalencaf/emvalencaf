@@ -9,7 +9,7 @@
 
 [![English version of my profile](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/emvalencaf/emvalencaf/blob/main/README.md)
 &nbsp;&nbsp;
-[![Portuguese version of my profile](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/emvalencaf/emvalencaf/blob/main/README.pt-br.md)
+[![Portuguese version of my profile](https://img.shields.io/badge/lang-pt--br-blue.svg)](https://github.com/emvalencaf/emvalencaf/blob/main/README.pt-br.md)
 
 
 ```
