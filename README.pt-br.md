@@ -3,7 +3,7 @@
         Edson Mota Valença Filho
     </p>
     <p align="center">
-         AI & ML Developer, AWS Certified Data Engineer e AI e Cloud Practitioner
+         Generative AI Engineer, AWS Certified Data Engineer e AI e Cloud Practitioner
     </p>
 </h2>
 
@@ -20,7 +20,7 @@ class AIMLDeveloper:
     def __init__(self):
         self.name = "Edson Mota Valença Filho"
 
-        self.role = "AI & ML Developer"
+        self.role = "Generative AI Engineer"
 
         self.code = ["python",
                      "javascript",
@@ -49,11 +49,20 @@ if ( __name__ == "main"):
 
 # Um Pouco Mais Sobre Mim
 
-Sou um engenheiro de software interessado em **desenvolver soluções baseadas em IA** para **investimentos** e **direito**. Sou profundamente apaixonado por **ensinar máquinas** a ajudar os humanos a alcançar melhores **resultados** e fazer contribuições **impactantes**. Atualmente, trabalho como **IA Developer trainee** na **Compass.UOL**, e tenho experiência prática tanto como **engenheiro de dados** quanto como **engenheiro de software**.
+Sou um engenheiro de software que constrói **soluções baseadas em IA** para **direito** e **investimentos**. Gosto de **ensinar máquinas** a ajudar pessoas a chegar a melhores **resultados**, e me importo em medir se elas realmente ajudam.
 
-No meu papel como **IA Developer**, meus principais projetos giram em torno de **aplicações baseadas em LLM**, utilizando práticas de **LLMOps** para gerenciar, implantar e monitorar eficazmente grandes modelos de linguagem. Emprego técnicas para **construir knowledge base** para sistemas de **Retrieval-Augmented Generation (RAG)**, **fine-tuning foundation models** e otimizando **engenharia de prompt** para melhores resultados. Frequentemente aproveito minhas **habilidades em engenharia de dados** para projetar e implementar **pipelines de dados** robustos que suportam essas aplicações.
+Atuo como **Generative AI Engineer**, com experiência anterior como **AI/ML Engineer** (liderança técnica em uma equipe de legal tech), **IA Developer trainee** na **Compass.UOL** e trabalho prático como **engenheiro de dados**. Meus projetos giram em torno de **aplicações e agentes baseados em LLM**: bases de conhecimento **RAG e graph-RAG**, **LLMOps e avaliação** (LLM-as-judge, baselines de regressão), **servidores MCP** e os **pipelines de dados** que os alimentam.
 
-Sou um **estudante em graduação** do curso **Análise e Desenvolvimento de Sistemas** no **SENAC-PE**. Além disso, tenho um **diploma em Direito** e alguma experiência como advogado, o que **impulsiona** meu interesse em **criar soluções baseadas em IA** para questões legais.
+Sou tecnólogo em **Análise e Desenvolvimento de Sistemas** (SENAC-PE), tenho um **MBA em Ciência de Dados e Inteligência Artificial** (SENAC-PE) e sou **bacharel em Direito**, com alguma experiência como advogado, o que **impulsiona** meu interesse em IA para questões jurídicas.
+
+### O Que Estou Construindo Agora
+
+- [**juris-bridge-mcp**](https://github.com/emvalencaf/juris-bridge-mcp): servidor MCP remoto que dá a agentes de IA acesso a dados judiciais brasileiros.
+- [**legal-radar**](https://github.com/emvalencaf/legal-radar): graph-RAG sobre o direito brasileiro, com citações rastreáveis até o grafo.
+- [**assayer**](https://github.com/emvalencaf/assayer): biblioteca Python para avaliar e observar aplicações com LLM.
+- [**extraction-llm-pipeline**](https://github.com/emvalencaf/extraction-llm-pipeline): PDFs de notas fiscais para JSON validado com LLM na AWS, com baseline de regressão.
+- [**capitol-lake**](https://github.com/emvalencaf/capitol-lake): declarações de negociações de ações do Congresso dos EUA como dataset consultável.
+- [**literature-notes**](https://github.com/emvalencaf/literature-notes): skills de agente que transformam fontes acadêmicas em uma wiki de notas de leitura.
 
 ### Contato
 
