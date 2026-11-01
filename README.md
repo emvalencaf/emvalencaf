@@ -63,7 +63,6 @@ I hold a **Systems Analysis and Development** degree (SENAC-PE), an **MBA in Dat
 - [**assayer**](https://github.com/emvalencaf/assayer): Python library for evaluating and observing LLM applications.
 - [**extraction-llm-pipeline**](https://github.com/emvalencaf/extraction-llm-pipeline): invoice PDFs to validated JSON with an LLM on AWS, gated by a regression baseline.
 - [**capitol-lake**](https://github.com/emvalencaf/capitol-lake): Congress stock-trading disclosures as a queryable dataset.
-- [**literature-notes**](https://github.com/emvalencaf/literature-notes): agent skills that turn academic sources into an LLM wiki of reading notes.
 
 ### Reach Me Out At
 

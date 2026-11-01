@@ -62,7 +62,6 @@ Sou tecnólogo em **Análise e Desenvolvimento de Sistemas** (SENAC-PE), tenho u
 - [**assayer**](https://github.com/emvalencaf/assayer): biblioteca Python para avaliar e observar aplicações com LLM.
 - [**extraction-llm-pipeline**](https://github.com/emvalencaf/extraction-llm-pipeline): PDFs de notas fiscais para JSON validado com LLM na AWS, com baseline de regressão.
 - [**capitol-lake**](https://github.com/emvalencaf/capitol-lake): declarações de negociações de ações do Congresso dos EUA como dataset consultável.
-- [**literature-notes**](https://github.com/emvalencaf/literature-notes): skills de agente que transformam fontes acadêmicas em uma wiki de notas de leitura.
 
 ### Contato
 
